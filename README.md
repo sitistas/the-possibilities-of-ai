@@ -1,2 +1,8 @@
 # Microsoft Build After Party | The possibilities of AI
-For our Microsoft Build After Party - more [in our webpage](https://sfoteini.github.io/microsoft-build-after-party-2023)
+
+This repository was created to host the code files needed for the purposes of our Microsoft Build After Party. You can find more information [in our webpage](https://sfoteini.github.io/microsoft-build-after-party-2023)
+
+##
+
+## Οδηγίες
+
