@@ -1,8 +1,8 @@
 # Microsoft Build After Party | The possibilities of AI
 
-This repository was created to host the code files needed for the purposes of our Microsoft Build After Party. You can find more information [in our webpage](https://sfoteini.github.io/microsoft-build-after-party-2023)
+This repository was created to host the code files needed for the purposes of our Microsoft Build After Party. You can find more information in [our webpage](https://sfoteini.github.io/microsoft-build-after-party-2023)
 
-### If you want to run the demo for [Image Vector Similarity Search with Azure Computer Vision and PostgreSQL](https://github.com/sfoteini/image-vector-search-azure-postgresql), you can find the corresponding GitHub repository [here](https://github.com/sfoteini/image-vector-search-azure-postgresql), and the blog post that Foteini has created [here](https://sfoteini.github.io/blog/image-vector-similarity-search-with-azure-computer-vision-and-postgresql/)
+If you want to run the demo for [Image Vector Similarity Search with Azure Computer Vision and PostgreSQL](https://github.com/sfoteini/image-vector-search-azure-postgresql), you can find the corresponding GitHub repository [here](https://github.com/sfoteini/image-vector-search-azure-postgresql), and the blog post that Foteini has created [here](https://sfoteini.github.io/blog/image-vector-similarity-search-with-azure-computer-vision-and-postgresql/)
 
 ## What is included in this demo?
 
@@ -30,9 +30,9 @@ This repository was created to host the code files needed for the purposes of ou
 5. (Optional but recommended) Install Visual Studio Code and the Jupyter Notebook extension to run the notebook.
 6. Create a file called .env in the project folder, which will contain the keys of your Cognitive Services resource. The file should look like this:
 
-```.env
-'CV_ENDPOINT'=https://<COGNITIVE_SERVICES_RESOURCE_NAME>.cognitiveservices.azure.com/
-'CV_KEY'=<A 32 character string that you can find in the Keys and Endpoint section of your resource>
-```
+   ```.env
+   'CV_ENDPOINT'=https://<COGNITIVE_SERVICES_RESOURCE_NAME>.cognitiveservices.azure.com/
+   'CV_KEY'=<A 32 character string that you can find in the Keys and Endpoint section of your resource>
+   ```
 
 7. Run the notebook and enjoy!
